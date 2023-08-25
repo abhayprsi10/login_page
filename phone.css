@@ -7,7 +7,7 @@
    font-size: 36px;
 }
 
-@media (max-width:460px){
+@media screen and (max-width:460px){
     .container{
         top: 20%;
         left:10%
