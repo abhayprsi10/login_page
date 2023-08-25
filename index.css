@@ -75,3 +75,16 @@ body{
     margin: 2px 3px;
     padding: 2px 3px;
 }
+
+
+/* @media (max-width:900px){
+    .container {
+        top: 20%;
+        left: 25%;
+    }
+    
+    .container h1{
+       font-size: 36px;
+    }
+} */
+
